@@ -295,6 +295,7 @@ html {
     justify-content: space-between;
     gap: 50px;
     padding: 120px 10% 100px 10%;
+    background: linear-gradient(to bottom, var(--preto) 0%, #0e1c5c 15%, #1d0b1c 85%, var(--preto) 100%);
 }
  
 .textosobre { flex: 1.1; }
